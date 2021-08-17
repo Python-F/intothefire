@@ -23,3 +23,25 @@ while(True):
 
 
 
+
+
+
+
+def maze_gen(size):
+    m = [[0] * size for i in range(size)]
+    m[0][0] = 1
+    m[-1][-1] = 1
+
+    for i in m:
+        r = random.randint(1,4)
+        for j in i:
+            if r == 1:
+                m[i][j] = 1
+
+    return m
+
+
+
+
+
+

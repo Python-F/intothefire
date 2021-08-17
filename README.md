@@ -1,7 +1,7 @@
 # intothefire
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-[![Package Control total downloads](https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)
+[![Generic badge](https://img.shields.io/badge/Status-Development-red.svg)](https://nsource.dev/intothefire)
 
 Text-Based Adventure Game
 
